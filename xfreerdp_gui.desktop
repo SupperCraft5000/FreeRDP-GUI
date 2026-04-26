@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=FreeRDP GUI
+Comment=Einfache GUI für xfreerdp3
+Exec=python3 /PFAD/ZU/xfreerdp_gui.py
+Icon=preferences-system-network
+Terminal=false
+Categories=Network;RemoteAccess;
